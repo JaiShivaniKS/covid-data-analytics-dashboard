@@ -1,0 +1,7 @@
+Rows imported: 529,680
+Missing country names: 0
+Missing dates: 0
+Negative new_cases rows: 46
+Distinct countries: 240
+Date range: 2020–2024
+

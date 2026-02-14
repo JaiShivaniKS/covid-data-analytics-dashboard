@@ -1,0 +1,10 @@
+negative new_cases = 46
+negative new_deaths = 30
+variation duplicates seen = No
+
+negative rows after fix = 0
+null cases count = 317026
+null deaths count = 374679
+days_count equal for all countries = yes
+encoding rows remaining = yes
+
