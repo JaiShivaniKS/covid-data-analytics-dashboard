@@ -11,6 +11,14 @@ The objective was to:
 
 Dataset contains over 500,000+ records of global COVID-19 cases.
 
+📂 Dataset Source
+
+World Health Organization (WHO) COVID-19 Global Data  
+Direct CSV download: https://covid19.who.int/WHO-COVID-19-global-data.csv
+
+Note: Due to GitHub file size limitations, the raw dataset is not included in this repository.
+
+
 🛠 Tools & Technologies
 
 - PostgreSQL (Data cleaning & transformation)
@@ -86,4 +94,5 @@ Open using Power BI Desktop.
 - Writing efficient SQL for time-series analytics
 - Building interactive BI dashboards
 - End-to-end data analytics workflow
+
 
