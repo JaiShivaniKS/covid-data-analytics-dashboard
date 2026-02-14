@@ -1,17 +1,15 @@
-🦠 COVID-19 Global Data Cleaning & Analytics Dashboard
+🦠 **COVID-19 Global Data Cleaning & Analytics Dashboard**
 
 
 📌 Project Overview
 
 This project focuses on cleaning, transforming, and analyzing global COVID-19 case data using PostgreSQL and Power BI.
-
 The objective was to:
 - Handle inconsistencies in international datasets
 - Perform time-series feature engineering
 - Build an interactive analytical dashboard
 
 Dataset contains over 500,000+ records of global COVID-19 cases.
-
 
 🛠 Tools & Technologies
 
@@ -69,16 +67,18 @@ P1-CovidDataCleaning/
 └── README.md
 
 
-
 📥 Download Dashboard
 
 You can download the Power BI dashboard file here:
 
 [Download Power BI Dashboard](powerbi/covid_analytics_dashboard.pbix)
-
 Open using Power BI Desktop.
 
+🔍 How to Use
 
+1. Download the Power BI file from the `powerbi/` folder.
+2. Open using Microsoft Power BI Desktop.
+3. Use slicers (Country, Region, Date) to interact with the dashboard.
 
 🚀 Key Learning Outcomes
 
@@ -86,3 +86,4 @@ Open using Power BI Desktop.
 - Writing efficient SQL for time-series analytics
 - Building interactive BI dashboards
 - End-to-end data analytics workflow
+
